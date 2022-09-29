@@ -5,4 +5,5 @@
 - 📫 How to reach me:
 - www.linkedin.com/in/gleniox
 - www.instagram.com/instacanuck/
-- www.medium.com/@gleniox/
+-  👀 Interesting links:
+- [Quick Steps For Deploying React Applications to Github Pages](https://medium.com/@gleniox/quick-steps-for-deploying-react-applications-to-github-pages-27eaf700e32)
