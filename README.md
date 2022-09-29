@@ -5,3 +5,4 @@
 - 📫 How to reach me:
 - www.linkedin.com/in/gleniox
 - www.instagram.com/instacanuck/
+- medium.com/@gleniox/
