@@ -7,3 +7,4 @@
 - www.instagram.com/instacanuck/
 -  👀 Interesting links:
 - [Quick Steps For Deploying React Applications to Github Pages](https://medium.com/@gleniox/quick-steps-for-deploying-react-applications-to-github-pages-27eaf700e32)
+- [How to Use Multiple GitHub Accounts on a Single Machine](https://medium.com/@gleniox/how-to-use-multiple-github-accounts-on-a-single-machine-eb1128abd35d)
