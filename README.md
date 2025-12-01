@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Glenio Alexandre Nogueira. Brazilian-Canadian. Software Developer.
-- 👀 I’m interested in Coffee & Photography (and Canada Eh!).
 - 🌱 I’m investing time in sharpening my React and .NET C# expertise, revisiting core concepts and addressing gaps to continue evolving into the best software developer I can be.
 Continuous learning is key in our field, and I believe going back to the fundamentals is just as important as mastering advanced topics. This journey is helping me strengthen my foundation, expand my perspective, and push myself toward becoming a more well‑rounded professional.
-- 💞️ I’m excited to be wrapping up a personal side project that has been a great learning journey.
+- 💞️ Excited to be wrapping up a personal side project that has been a great learning journey.
+- 👀 Interested in Coffee & Photography (and Canada Eh!).
 - 📫 How to reach me:
 - www.linkedin.com/in/gleniox
 - www.instagram.com/instacanuck/
